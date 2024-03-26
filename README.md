@@ -1,7 +1,7 @@
 ### I'm Hyun-Sik Won.
 
 [![코드트리|실력진단-dkqjrm](https://banner.codetree.ai/v1/banner/dkqjrm)](https://www.codetree.ai/profiles/dkqjrm)
-
+![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkqjrm&show_icons=true&theme=radical)
 <!--
 **dkqjrm/dkqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
