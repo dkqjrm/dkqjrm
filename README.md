@@ -12,6 +12,48 @@ NLP specialist focused on solving real-world problems with language models acros
 
 ---
 
+## 📚 Publications
+
+### 📄 Research Papers
+
+**EXTRA: Integrating external knowledge into multimodal hashtag recommendation system** *(2023)*  
+*HS Won, SM Roh, D Kim, MJ Kim, H Kim, KM Kim*  
+*2023 IEEE International Conference on Web Services (ICWS), 719-721*
+
+**P-Distill: Efficient and Effective Prompt Tuning Using Knowledge Distillation** *(2025)*  
+*HS Won, JY Choi, N Zaman, D Aliyeva, KM Kim*  
+*Applied Sciences 15 (5), 2420*
+
+**University student dropout prediction using pretrained language models** *(2023)*  
+*HS Won, MJ Kim, D Kim, HS Kim, KM Kim*  
+*Applied Sciences 13 (12), 7073*
+
+**Large Language Models are Students at Various Levels: Zero-shot Question Difficulty Estimation** *(2024)*  
+*JW Park, SJ Park, HS Won, KM Kim*  
+*Findings of the Association for Computational Linguistics: EMNLP 2024, 8157-8177*
+
+**PETIS: Intent Classification and Slot Filling for Pet Care Services** *(2024)*  
+*N Zaman, SJ Park, HS Won, MJ Kim, HS An, KM Kim*  
+*IEEE Access*
+
+**Multi-stage prompt tuning for political perspective detection in low-resource settings** *(2023)*  
+*KM Kim, M Lee, HS Won, MJ Kim, Y Kim, SK Lee*  
+*Applied Sciences 13 (10), 6252*
+
+**Discovering Time-Varying Public Interest for COVID-19 Case Prediction in South Korea Using Search Engine Queries: Infodemiology Study** *(2024)*  
+*SH Ahn, K Yim, HS Won, KM Kim, DH Jeong*  
+*Journal of Medical Internet Research 26, e63476*
+
+---
+
+## 🤝 Open Source Contributions
+
+**Contributed repos:**
+* **gemini-fullstack-langgraph-quickstart**
+   * Fix for Korean language input handling in multi-language support ([PR #35](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/pull/35))
+
+---
+
 ## 🏆 Key Projects
 - 🏛️ **Supreme Prosecutors' Office**: Legal domain LLM with RAG system for case processing
 - 🎬 **Automatic Dubbing System**: Duration-based translation with phoneme predictions for lip synchronization across 29+ languages
@@ -37,19 +79,4 @@ NLP specialist focused on solving real-world problems with language models acros
 
 ## 📫 Contact
 - 📧 **Email**: dkqjrm@naver.com
-
-
-<!--
-**dkqjrm/dkqjrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=ko&user=75Nw9JMAAAAJ)
