@@ -49,8 +49,11 @@ NLP specialist focused on solving real-world problems with language models acros
 ## 🤝 Open Source Contributions
 
 **Contributed repos:**
-* **gemini-fullstack-langgraph-quickstart**
-   * Fix for Korean language input handling in multi-language support ([PR #35](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/pull/35))
+* **gemini-fullstack-langgraph-quickstart** – ([PR #35](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart/pull/35))  
+  Corrected typos and grammatical inconsistencies in docstrings and prompts, improving documentation clarity and code readability.
+
+* **openai/harmony** – ([PR #28](https://github.com/openai/harmony/pull/28))  
+  Fixed a duplicated phrase in the safety warning section of the documentation, improving clarity and professionalism.
 
 ---
 
